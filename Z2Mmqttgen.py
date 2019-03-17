@@ -50,4 +50,4 @@ if __name__ == '__main__':
     if len(sys.argv) == 3:
         main(sys.argv[1], sys.argv[2])
     else:
-        print("usage %s config.yaml 'topic of the networkto ban in'" % sys.argv[0])
+        print("usage %s config.yaml 'topic of the network to ban in'" % sys.argv[0])
